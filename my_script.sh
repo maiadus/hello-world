@@ -2,4 +2,4 @@
 
 VAR="Hello, World!"
 
-echo $VARi
+echo $VAR
